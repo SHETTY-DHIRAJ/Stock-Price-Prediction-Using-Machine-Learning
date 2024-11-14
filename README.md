@@ -38,7 +38,7 @@ This project leverages machine learning algorithms to predict stock prices based
 
 ### 2. Streamlet Webpage Related Screenshots
 <p align="center">
-  <img src="https://github.com/SHETTY-DHIRAJ/Stock-Price-Prediction-Using-Machine-Learning/blob/main/Dependent%20Resources/The%20Start%20Page%20of%20Streamlit%20Webpage.jpg" width="800">
+  <img src="https://github.com/SHETTY-DHIRAJ/Stock-Price-Prediction-Using-Machine-Learning/blob/main/Dependent%20Resources/The%20Start%20Page%20of%20Streamlit%20Webpage.jpg" alt="The Start Page of Streamlit Webpage" width="800">
 </p>
 <p align="center"><em>The Start Page of Streamlit Webpage</em></p>
 
